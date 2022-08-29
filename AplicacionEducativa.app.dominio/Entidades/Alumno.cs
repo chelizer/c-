@@ -9,6 +9,8 @@ namespace AplicacionEducativa.app.dominio.Entidades{
         public string nombre{get;set;} 
 
         public string apellido{get;set;} 
+
+        public string direccion{get;set;} 
          public Materia materia{get;set;} 
     }
 }
