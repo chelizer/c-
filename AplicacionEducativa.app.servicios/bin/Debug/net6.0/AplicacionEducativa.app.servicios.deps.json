@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AplicacionEducativa.app.servicios/1.0.0": {
+        "runtime": {
+          "AplicacionEducativa.app.servicios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AplicacionEducativa.app.servicios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
